@@ -6,6 +6,7 @@ import ru.netology.manager.AfishaManager;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
+
 public class AfishaManagerTest {
 
     //подготавливаем данные

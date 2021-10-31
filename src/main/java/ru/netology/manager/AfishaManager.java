@@ -8,6 +8,7 @@ import ru.netology.afisha.Film;
 
 @NoArgsConstructor
 @Data
+
 public class AfishaManager {
     //ввели переменную ожидаемого (желаемого) выводимого количества фильмов по умолчанию
     private int expectedLengthAfishaFilm = 10;
